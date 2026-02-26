@@ -14,22 +14,16 @@ html, body {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 0 20px;
+    padding: 10px 5%;
 }
 
 p {
     font-family: 'Calibri';
-    font-size: 22px;
+    font-size: 18px;
     color: #0011cd;
     margin: 0;
 }
 
-.p1 {
-    font-family: 'Calibri';
-    font-size: 22px;
-    padding-left: 525px;
-    color: #0011cd;
-}
 
 .logo {
     height: 150px;
@@ -41,16 +35,14 @@ p {
     background-color: #0B3D91;
     padding: 10px 20px;
     display: flex;
-    align-items: center;
+    justify-content: center;
 }
 
 .menu a {
     text-decoration: none;
     color: #fff;
     font-size: 20px;
-    padding: 5px 65px;
-    margin: 0 10px;
-    margin-left: 60px;
+    padding: 0vh 12vh;
 }
 
 .menu a:hover {
